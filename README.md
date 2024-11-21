@@ -1,3 +1,1 @@
-README.md
-Readme.md
-Trying to get New
+make things more professional
