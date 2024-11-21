@@ -1,1 +1,1 @@
-make things more professional
+create learn and grow
